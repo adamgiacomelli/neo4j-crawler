@@ -6,6 +6,8 @@
   "keywords": [],
   "dependencies": {
     "include-all": "^1.0.0",
+    "js-crawler": "^0.3.19",
+    "neo4j": "^2.0.0-RC2",
     "rc": "1.0.1",
     "sails": "~0.12.14",
     "sails-disk": "~0.10.9"
