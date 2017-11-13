@@ -3,6 +3,15 @@
     "modules": {}
   },
   "hooks": {
+    "orm": false,
+    "pubsub": false,
+    "session": false,
+    "blueprints": false,
+    "waterline": false,
+    "views": false,
     "grunt": false
-  }
+  },
+  "paths": {
+     "public": "public"
+   }
 }
